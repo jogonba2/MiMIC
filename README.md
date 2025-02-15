@@ -112,6 +112,8 @@ python -m streamlit run mimic/explore/app.py
 > [!IMPORTANT]  
 > This feature will be released after the competition ends, keep posted! 🤓
 
+We plan to release code to build a dataset for multimodal machine-generated content as the one in MiMIC.
+
 It will be as easy as calling the `generate_dataset` endpoint:
 
 ```python
