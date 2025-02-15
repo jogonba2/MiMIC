@@ -1,0 +1,18 @@
+torch
+datasets
+transformers @ git+https://github.com/huggingface/transformers
+scikit-learn
+pillow
+litellm
+ftfy
+streamlit
+tiktoken
+requests
+ua-generator
+typer
+matplotlib
+seaborn
+textstat
+bitsandbytes
+accelerate
+torchvision
