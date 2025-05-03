@@ -34,6 +34,9 @@ For all the information about the shared task (description, how to download the 
 
 ## 📢 Anouncements
 
+> [!IMPORTANT]
+> We regret to inform you that, due to circumstances beyond the control of the organizing team, **the shared task has been cancelled**. We will continue releasing the resources we have prepared so far in this repository. We will release the generation pipeline soon, but for now we release a trial dataset here: https://drive.google.com/file/d/1WY_lwMTgI95wHFIrFZ4n5Q2ubq8hgx-k/view?usp=sharing
+
 - **The repository has been created at 05/02/2025**
 - **Endpoints for running experiments, evaluate, and format checking has been released at 15/02/2025**
 
