@@ -7,9 +7,9 @@
     <a href="CODE_OF_CONDUCT.md">
         <img alt="Contributor Covenant" src="https://img.shields.io/badge/Contributor%20Covenant-v2.0-orange">
     </a>
-    <img alt="Vision Language Models" src="https://img.shields.io/badge/Vision_Language_Models-TBD-yellow">
-    <img alt="Image Generation Models" src="https://img.shields.io/badge/Image_Generation_Models-TBD-yellow">
-    <img alt="Domains" src="https://img.shields.io/badge/Domains-TBD-yellow">
+    <img alt="Vision Language Models" src="https://img.shields.io/badge/Vision_Language_Models-FLUX_1_schnell%2CFLUX_1.1_pro%2Cdalle_3%2Csd3.5-yellow">
+    <img alt="Image Generation Models" src="https://img.shields.io/badge/Image_Generation_Models-gemini_2.0_flash%2Cgpt_4o%2Cgpt_4o_mini%2Cclaude_3.5_sonnet-yellow">
+    <img alt="Domains" src="https://img.shields.io/badge/Domains-wikipedia-yellow">
     <img alt="Languages" src="https://img.shields.io/badge/Languages-en%2Ces-green">
     <img alt="Subtasks" src="https://img.shields.io/badge/Tasks-detection-blue">
     <a href="https://www.symanto.com/">
